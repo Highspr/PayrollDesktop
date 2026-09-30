@@ -1,0 +1,814 @@
+{
+  "dashboard": {
+    "points": {
+      "1": {
+        "x": 114,
+        "y": 301,
+        "w": 194,
+        "h": 259
+      },
+      "2": {
+        "x": 1213.5,
+        "y": 148.484375,
+        "w": 195,
+        "h": 59
+      },
+      "3": {
+        "x": 786.5,
+        "y": 307.25,
+        "w": 1049,
+        "h": 170.53125
+      },
+      "4": {
+        "x": 1212.546875,
+        "y": 490.515625,
+        "w": 138.90625,
+        "h": 43
+      },
+      "5": {
+        "x": 518.25,
+        "y": 789.015625,
+        "w": 462.5,
+        "h": 51
+      },
+      "6": {
+        "x": 114,
+        "y": 955,
+        "w": 194,
+        "h": 42
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nDashboard\nOffline ready\nPD\nYOUR COLLEGE, AT A GLANCE\nA clearer view of your payroll.\n\nEverything you need for a confident payroll day.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nLET\u2019S GET THIS MONTH READY\nA smooth payroll starts here.\n\nReview staff salaries, check adjustments and lock the month when you\u2019re ready.\n\nOpen payroll\nMonth at a glance\nDraft\nEmployees in this payroll\n8\nActive master records\n8\nBank details / net pay to review\n0\nSaved payroll periods\n2\nChanges are saved on this computer. Back up regularly.\nQuick actions\nLess clicking. More clarity.\nDownload payslips\nAll employees \u00b7 PDF document\nImport salary workbook\nBring in your existing college Excel sheet\nBack up your records\nKeep a safe copy on another drive\nRECENT PERIODS\nSeptember 2026\nAugust 2026\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "dashboard-actions": {
+    "points": {
+      "1": {
+        "x": 814.75,
+        "y": 461.515625,
+        "w": 510.5,
+        "h": 81
+      },
+      "2": {
+        "x": 814.75,
+        "y": 542.515625,
+        "w": 510.5,
+        "h": 81
+      },
+      "3": {
+        "x": 814.75,
+        "y": 623.015625,
+        "w": 510.5,
+        "h": 80
+      },
+      "4": {
+        "x": 546.5,
+        "y": 718.765625,
+        "w": 1049,
+        "h": 34.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nDashboard\nOffline ready\nPD\nYOUR COLLEGE, AT A GLANCE\nA clearer view of your payroll.\n\nEverything you need for a confident payroll day.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nLET\u2019S GET THIS MONTH READY\nA smooth payroll starts here.\n\nReview staff salaries, check adjustments and lock the month when you\u2019re ready.\n\nOpen payroll\nMonth at a glance\nDraft\nEmployees in this payroll\n8\nActive master records\n8\nBank details / net pay to review\n0\nSaved payroll periods\n2\nChanges are saved on this computer. Back up regularly.\nQuick actions\nLess clicking. More clarity.\nDownload payslips\nAll employees \u00b7 PDF document\nImport salary workbook\nBring in your existing college Excel sheet\nBack up your records\nKeep a safe copy on another drive\nRECENT PERIODS\nSeptember 2026\nAugust 2026\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      240,
+      220,
+      1100,
+      770
+    ]
+  },
+  "employees": {
+    "points": {
+      "1": {
+        "x": 429,
+        "y": 262.984375,
+        "w": 292,
+        "h": 40
+      },
+      "2": {
+        "x": 999.734375,
+        "y": 262.984375,
+        "w": 88.46875,
+        "h": 16.5
+      },
+      "3": {
+        "x": 1116.21875,
+        "y": 262.984375,
+        "w": 112.5,
+        "h": 36.5
+      },
+      "4": {
+        "x": 1243.234375,
+        "y": 262.984375,
+        "w": 123.53125,
+        "h": 37
+      },
+      "5": {
+        "x": 342.125,
+        "y": 377.984375,
+        "w": 126.25,
+        "h": 37
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nEmployees\nOffline ready\nPD\nPAYROLL WORKSPACE\nYour people. All in one place.\n\nManage staff records and the details behind every payslip.\n\nPAYROLL PERIOD\nShow inactive\nImport Excel\nAdd employee\nEMPLOYEE \u2191\tBPS\tBASIC PAY\tBANK\tSTATUS\t\n\nAE\nAmina Example\nLecturer\n\t17\t30,000\tSample Bank\tActive\t\n\n\nBE\nBilal Example\nLecturer\n\t17\t32,000\tSample Bank\tActive\t\n\n\nDE\nDania Example\nLecturer\n\t17\t34,000\tSample Bank\tActive\t\n\n\nFE\nFaisal Example\nLecturer\n\t17\t36,000\tSample Bank\tActive\t\n\n\nHE\nHina Example\nLecturer\n\t17\t38,000\tSample Bank\tActive\t\n\n\nOE\nOmar Example\nLecturer\n\t17\t40,000\tSample Bank\tActive\t\n\n\nSE\nSara Example\nLecturer\n\t17\t42,000\tSample Bank\tActive\t\n\n\nZE\nZain Example\nLecturer\n\t17\t44,000\tSample Bank\tActive\t\nMaster records provide defaults for monthly payroll.\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "employee-top": {
+    "points": {
+      "1": {
+        "x": 157,
+        "y": 198,
+        "w": 258,
+        "h": 65
+      },
+      "2": {
+        "x": 433,
+        "y": 198,
+        "w": 258,
+        "h": 65
+      },
+      "3": {
+        "x": 157,
+        "y": 281,
+        "w": 258,
+        "h": 65
+      },
+      "4": {
+        "x": 433,
+        "y": 281,
+        "w": 258,
+        "h": 65
+      },
+      "5": {
+        "x": 157,
+        "y": 364,
+        "w": 258,
+        "h": 65
+      },
+      "6": {
+        "x": 433,
+        "y": 364,
+        "w": 258,
+        "h": 65
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nEmployees\nOffline ready\nPD\nPAYROLL WORKSPACE\nYour people. All in one place.\n\nManage staff records and the details behind every payslip.\n\nPAYROLL PERIOD\nShow inactive\nImport Excel\nAdd employee\nEMPLOYEE \u2191\tBPS\tBASIC PAY\tBANK\tSTATUS\t\n\nAE\nAmina Example\nLecturer\n\t17\t30,000\tSample Bank\tActive\t\n\n\nBE\nBilal Example\nLecturer\n\t17\t32,000\tSample Bank\tActive\t\n\n\nDE\nDania Example\nLecturer\n\t17\t34,000\tSample Bank\tActive\t\n\n\nFE\nFaisal Example\nLecturer\n\t17\t36,000\tSample Bank\tActive\t\n\n\nHE\nHina Example\nLecturer\n\t17\t38,000\tSample Bank\tActive\t\n\n\nOE\nOmar Example\nLecturer\n\t17\t40,000\tSample Bank\tActive\t\n\n\nSE\nSara Example\nLecturer\n\t17\t42,000\tSample Bank\tActive\t\n\n\nZE\nZain Example\nLecturer\n\t17\t44,000\tSample Bank\tActive\t\nMaster records provide defaults for monthly payroll.\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity\nEMPLOYEE MASTER\nAmina Example\nPersonal details\nFull name\nDesignation\nAppointment date\nBPS (blank for contract)\nSection\nCategory / group\nBank & contact details\nBank account number\nBank\nEmail address\nCPF account number\nCPF member\nYes\nNo\nEmployee status\nActive\nInactive\nDefault salary\nRunning basic\nSpecial allowance\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "employee-bottom": {
+    "points": {
+      "1": {
+        "x": 157,
+        "y": 491,
+        "w": 258,
+        "h": 65
+      },
+      "2": {
+        "x": 157,
+        "y": 574,
+        "w": 258,
+        "h": 65
+      },
+      "3": {
+        "x": 157,
+        "y": 656.75,
+        "w": 258,
+        "h": 64.5
+      },
+      "4": {
+        "x": 433,
+        "y": 656.75,
+        "w": 258,
+        "h": 64.5
+      },
+      "5": {
+        "x": 157,
+        "y": 783.5,
+        "w": 258,
+        "h": 65
+      },
+      "6": {
+        "x": 490.8359375,
+        "y": 1001.5,
+        "w": 142.328125,
+        "h": 43
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nEmployees\nOffline ready\nPD\nPAYROLL WORKSPACE\nYour people. All in one place.\n\nManage staff records and the details behind every payslip.\n\nPAYROLL PERIOD\nShow inactive\nImport Excel\nAdd employee\nEMPLOYEE \u2191\tBPS\tBASIC PAY\tBANK\tSTATUS\t\n\nAE\nAmina Example\nLecturer\n\t17\t30,000\tSample Bank\tActive\t\n\n\nBE\nBilal Example\nLecturer\n\t17\t32,000\tSample Bank\tActive\t\n\n\nDE\nDania Example\nLecturer\n\t17\t34,000\tSample Bank\tActive\t\n\n\nFE\nFaisal Example\nLecturer\n\t17\t36,000\tSample Bank\tActive\t\n\n\nHE\nHina Example\nLecturer\n\t17\t38,000\tSample Bank\tActive\t\n\n\nOE\nOmar Example\nLecturer\n\t17\t40,000\tSample Bank\tActive\t\n\n\nSE\nSara Example\nLecturer\n\t17\t42,000\tSample Bank\tActive\t\n\n\nZE\nZain Example\nLecturer\n\t17\t44,000\tSample Bank\tActive\t\nMaster records provide defaults for monthly payroll.\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity\nEMPLOYEE MASTER\nAmina Example\nPersonal details\nFull name\nDesignation\nAppointment date\nBPS (blank for contract)\nSection\nCategory / group\nBank & contact details\nBank account number\nBank\nEmail address\nCPF account number\nCPF member\nYes\nNo\nEmployee status\nActive\nInactive\nDefault salary\nRunning basic\nSpecial allowance\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "payroll": {
+    "points": {
+      "1": {
+        "x": 1213.5,
+        "y": 148.484375,
+        "w": 195,
+        "h": 59
+      },
+      "2": {
+        "x": 429,
+        "y": 459.515625,
+        "w": 292,
+        "h": 40
+      },
+      "3": {
+        "x": 1077.03125,
+        "y": 526.015625,
+        "w": 129,
+        "h": 29
+      },
+      "4": {
+        "x": 1129.671875,
+        "y": 459.515625,
+        "w": 110.75,
+        "h": 36.5
+      },
+      "5": {
+        "x": 1242.0234375,
+        "y": 459.515625,
+        "w": 95.953125,
+        "h": 36.5
+      },
+      "6": {
+        "x": 1225.265625,
+        "y": 526.015625,
+        "w": 127.46875,
+        "h": 24.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nDraft\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nReview & lock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "payroll-table": {
+    "points": {
+      "1": {
+        "x": 46.5,
+        "y": 150.015625,
+        "w": 15,
+        "h": 15
+      },
+      "2": {
+        "x": 149.125,
+        "y": 207.515625,
+        "w": 126.25,
+        "h": 37
+      },
+      "3": {
+        "x": 417.84375,
+        "y": 208.015625,
+        "w": 72.71875,
+        "h": 64
+      },
+      "4": {
+        "x": 868.046875,
+        "y": 208.015625,
+        "w": 106.46875,
+        "h": 64
+      },
+      "5": {
+        "x": 961.53125,
+        "y": 208.015625,
+        "w": 80.5,
+        "h": 64
+      },
+      "6": {
+        "x": 1020.4140625,
+        "y": 714.265625,
+        "w": 59.171875,
+        "h": 24.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nDraft\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nReview & lock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      240,
+      215,
+      1100,
+      730
+    ]
+  },
+  "monthly-top": {
+    "points": {
+      "1": {
+        "x": 272.5,
+        "y": 151.296875,
+        "w": 519,
+        "h": 43.59375
+      },
+      "2": {
+        "x": 138.25,
+        "y": 558.59375,
+        "w": 250.5,
+        "h": 65
+      },
+      "3": {
+        "x": 406.75,
+        "y": 558.59375,
+        "w": 250.5,
+        "h": 65
+      },
+      "4": {
+        "x": 138.25,
+        "y": 641.59375,
+        "w": 250.5,
+        "h": 65
+      },
+      "5": {
+        "x": 138.25,
+        "y": 724.34375,
+        "w": 250.5,
+        "h": 64.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nDraft\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nReview & lock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity\nSEPTEMBER 2026 \u00b7 MONTHLY DETAILS\nAmina Example\nChanges apply only to this month. Employee master records stay unchanged.\nPersonal details\nFull name\nDesignation\nAppointment date\nBPS (blank for contract)\nSection\nBank & contact details\nBank account number\nBank\nEmail address\nCPF account number\nCPF member\nYes\nNo\nAttendance & salary inputs\nWorking days\nDays worked\nRunning basic\nHouse rent\nConveyance\nMedical\nAdhoc allowance\nSpecial allowance\nArrears / encashment\nCPF deduction\nLoan instalment\nOther deduction\nGross salary\nRs 47,000\nLeave deduction\nRs 3,000\nTotal deductions\nRs 7,500\nEstimated net pay\nRs 39,500\nPreview only. Save to apply changes to the payroll.\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "monthly-inputs": {
+    "points": {
+      "1": {
+        "x": 138.25,
+        "y": 341.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "2": {
+        "x": 406.75,
+        "y": 341.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "3": {
+        "x": 138.25,
+        "y": 424.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "4": {
+        "x": 138.25,
+        "y": 590.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "5": {
+        "x": 406.75,
+        "y": 673.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "6": {
+        "x": 406.75,
+        "y": 756.09375,
+        "w": 250.5,
+        "h": 65
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nDraft\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nReview & lock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity\nSEPTEMBER 2026 \u00b7 MONTHLY DETAILS\nAmina Example\nChanges apply only to this month. Employee master records stay unchanged.\nPersonal details\nFull name\nDesignation\nAppointment date\nBPS (blank for contract)\nSection\nBank & contact details\nBank account number\nBank\nEmail address\nCPF account number\nCPF member\nYes\nNo\nAttendance & salary inputs\nWorking days\nDays worked\nRunning basic\nHouse rent\nConveyance\nMedical\nAdhoc allowance\nSpecial allowance\nArrears / encashment\nCPF deduction\nLoan instalment\nOther deduction\nGross salary\nRs 47,000\nLeave deduction\nRs 3,000\nTotal deductions\nRs 7,500\nEstimated net pay\nRs 39,500\nPreview only. Save to apply changes to the payroll.\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "monthly-preview": {
+    "points": {
+      "1": {
+        "x": 138.25,
+        "y": 570.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "2": {
+        "x": 138.25,
+        "y": 653.09375,
+        "w": 250.5,
+        "h": 65
+      },
+      "3": {
+        "x": 272.5,
+        "y": 824.09375,
+        "w": 519,
+        "h": 227
+      },
+      "4": {
+        "x": 475.8359375,
+        "y": 1001.5,
+        "w": 142.328125,
+        "h": 43
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nDraft\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nReview & lock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity\nSEPTEMBER 2026 \u00b7 MONTHLY DETAILS\nAmina Example\nChanges apply only to this month. Employee master records stay unchanged.\nPersonal details\nFull name\nDesignation\nAppointment date\nBPS (blank for contract)\nSection\nBank & contact details\nBank account number\nBank\nEmail address\nCPF account number\nCPF member\nYes\nNo\nAttendance & salary inputs\nWorking days\nDays worked\nRunning basic\nHouse rent\nConveyance\nMedical\nAdhoc allowance\nSpecial allowance\nArrears / encashment\nCPF deduction\nLoan instalment\nOther deduction\nGross salary\nRs 47,000\nLeave deduction\nRs 3,000\nTotal deductions\nRs 7,500\nEstimated net pay\nRs 39,500\nPreview only. Save to apply changes to the payroll.\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "payroll-locked": {
+    "points": {
+      "1": {
+        "x": 1031.3046875,
+        "y": 250.515625,
+        "w": 67.984375,
+        "h": 25
+      },
+      "2": {
+        "x": 1242.65625,
+        "y": 317.015625,
+        "w": 92.6875,
+        "h": 24.5
+      },
+      "3": {
+        "x": 1242.0234375,
+        "y": 250.515625,
+        "w": 95.953125,
+        "h": 36.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nPayroll\nOffline ready\nPD\nPAYROLL WORKSPACE\nMonthly payroll\n\nReview earnings, make adjustments and finalize the month.\n\nPAYROLL PERIOD\nMonth locked. Salary figures are now preserved.\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nLocked\nExport Excel\nSave PDF\n8 employees / 0 selected\nExport scope\nEntire month\nSelected employees\nUnlock month\n\tEMPLOYEE \u2191\tBPS\tDAYS\tBASIC PAY\tALLOWANCES\tARREARS\tGROSS\tDEDUCTIONS\tNET PAY\t\n\t\nAE\nAmina Example\nLecturer\n\t17\t28 / 30\t30,000\t15,000\t2,000\t47,000\t7,500\t39,500\t\n\n\t\nBE\nBilal Example\nLecturer\n\t17\t30 / 30\t32,000\t15,000\t0\t47,000\t3,000\t44,000\t\n\n\t\nDE\nDania Example\nLecturer\n\t17\t30 / 30\t34,000\t15,000\t0\t49,000\t3,000\t46,000\t\n\n\t\nFE\nFaisal Example\nLecturer\n\t17\t30 / 30\t36,000\t15,000\t0\t51,000\t3,000\t48,000\t\n\n\t\nHE\nHina Example\nLecturer\n\t17\t30 / 30\t38,000\t15,000\t0\t53,000\t3,000\t50,000\t\n\n\t\nOE\nOmar Example\nLecturer\n\t17\t30 / 30\t40,000\t15,000\t0\t55,000\t3,000\t52,000\t\n\n\t\nSE\nSara Example\nLecturer\n\t17\t30 / 30\t42,000\t15,000\t0\t57,000\t3,000\t54,000\t\n\n\t\nZE\nZain Example\nLecturer\n\t17\t30 / 30\t44,000\t15,000\t0\t59,000\t3,000\t56,000\t\nAll amounts in PKR \u00b7 Click an employee to view details\nRefresh\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "reports": {
+    "points": {
+      "1": {
+        "x": 1151,
+        "y": 391.375,
+        "w": 270,
+        "h": 41
+      },
+      "2": {
+        "x": 430.1640625,
+        "y": 689.375,
+        "w": 286.328125,
+        "h": 40
+      },
+      "3": {
+        "x": 786.4921875,
+        "y": 689.375,
+        "w": 286.328125,
+        "h": 40
+      },
+      "4": {
+        "x": 1142.828125,
+        "y": 689.375,
+        "w": 286.34375,
+        "h": 40
+      },
+      "5": {
+        "x": 430.1640625,
+        "y": 973.46875,
+        "w": 286.328125,
+        "h": 40
+      },
+      "6": {
+        "x": 786.4921875,
+        "y": 973.46875,
+        "w": 286.328125,
+        "h": 40
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nReports\nOffline ready\nPD\nPAYROLL WORKSPACE\nReady to share. Easy to save.\n\nAccurate reports, generated directly from your selected payroll.\n\nPAYROLL PERIOD\nMonth locked. Salary figures are now preserved.\nLocked\nSeptember 2026\n\n8 employees \u00b7 Rs 389,500 net payable\n\nInclude in downloaded reports\nEntire month (8 employees)\nSelected employees (0)\nPDF\nEmployee payslips\n\nOne polished A4 payslip per employee, together in a PDF.\n\nSave PDF\nEXCEL\nSalary register\n\nComplete earnings, deductions and net pay with Excel totals.\n\nSave Excel\nEXCEL\nBank transfer statement\n\nEmployee names, account details and amounts for your bank.\n\nSave Excel\nEXCEL\nCPF statement\n\nEmployee and college contributions, plus loan instalments.\n\nSave Excel\nWORD\nBank details document\n\nAn editable document containing salary transfer details.\n\nSave Word\nEMAIL\nDeliver payslips\n\nSend an individual PDF to each employee. Requires internet, SMTP setup and a locked month.\n\nEmail all payslips\n\nBank statements are documents only. No money is transferred by this application.\n\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "report-email": {
+    "points": {
+      "1": {
+        "x": 902.828125,
+        "y": 518.46875,
+        "w": 286.34375,
+        "h": 40
+      },
+      "2": {
+        "x": 546.5,
+        "y": 586.8125,
+        "w": 1049,
+        "h": 18.6875
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nReports\nOffline ready\nPD\nPAYROLL WORKSPACE\nReady to share. Easy to save.\n\nAccurate reports, generated directly from your selected payroll.\n\nPAYROLL PERIOD\nMonth locked. Salary figures are now preserved.\nLocked\nSeptember 2026\n\n8 employees \u00b7 Rs 389,500 net payable\n\nInclude in downloaded reports\nEntire month (8 employees)\nSelected employees (0)\nPDF\nEmployee payslips\n\nOne polished A4 payslip per employee, together in a PDF.\n\nSave PDF\nEXCEL\nSalary register\n\nComplete earnings, deductions and net pay with Excel totals.\n\nSave Excel\nEXCEL\nBank transfer statement\n\nEmployee names, account details and amounts for your bank.\n\nSave Excel\nEXCEL\nCPF statement\n\nEmployee and college contributions, plus loan instalments.\n\nSave Excel\nWORD\nBank details document\n\nAn editable document containing salary transfer details.\n\nSave Word\nEMAIL\nDeliver payslips\n\nSend an individual PDF to each employee. Requires internet, SMTP setup and a locked month.\n\nEmail all payslips\n\nBank statements are documents only. No money is transferred by this application.\n\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      240,
+      360,
+      1100,
+      620
+    ]
+  },
+  "export-success": {
+    "points": {
+      "1": {
+        "x": 786.5,
+        "y": 262.734375,
+        "w": 1049,
+        "h": 81.5
+      },
+      "2": {
+        "x": 361.046875,
+        "y": 275.234375,
+        "w": 100.09375,
+        "h": 24.5
+      },
+      "3": {
+        "x": 1151,
+        "y": 411.875,
+        "w": 270,
+        "h": 41
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nReports\nOffline ready\nPD\nPAYROLL WORKSPACE\nReady to share. Easy to save.\n\nAccurate reports, generated directly from your selected payroll.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nLocked\nSeptember 2026\n\n8 employees \u00b7 Rs 389,500 net payable\n\nInclude in downloaded reports\nEntire month (8 employees)\nSelected employees (0)\nPDF\nEmployee payslips\n\nOne polished A4 payslip per employee, together in a PDF.\n\nSave PDF\nEXCEL\nSalary register\n\nComplete earnings, deductions and net pay with Excel totals.\n\nSave Excel\nEXCEL\nBank transfer statement\n\nEmployee names, account details and amounts for your bank.\n\nSave Excel\nEXCEL\nCPF statement\n\nEmployee and college contributions, plus loan instalments.\n\nSave Excel\nWORD\nBank details document\n\nAn editable document containing salary transfer details.\n\nSave Word\nEMAIL\nDeliver payslips\n\nSend an individual PDF to each employee. Requires internet, SMTP setup and a locked month.\n\nEmail all payslips\n\nBank statements are documents only. No money is transferred by this application.\n\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "settings-general": {
+    "points": {
+      "1": {
+        "x": 1202.609375,
+        "y": 431.625,
+        "w": 108.78125,
+        "h": 43
+      },
+      "2": {
+        "x": 526,
+        "y": 538.28125,
+        "w": 474,
+        "h": 65
+      },
+      "3": {
+        "x": 1018,
+        "y": 538.28125,
+        "w": 474,
+        "h": 65
+      },
+      "4": {
+        "x": 1018,
+        "y": 621.28125,
+        "w": 474,
+        "h": 65
+      },
+      "5": {
+        "x": 1184.9453125,
+        "y": 971.28125,
+        "w": 140.109375,
+        "h": 43
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nSettings\nOffline ready\nPD\nPAYROLL WORKSPACE\nMake it yours.\n\nCollege details, pay scales and workspace preferences.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGeneral\nBPS scales\nEmail\nBackup & restore\nCollege & payroll preferences\n\nThese defaults apply where no monthly override is saved.\n\nSet logo\nCollege name (shown on the salary sheet)\nWorking days in a month (default)\nPayslip wording for the adhoc / increase line\nCPF: college contribution, % of employee's deduction\nBank name (used when an employee has none entered)\nCPF statement voucher prefix (e.g. BCZC)\nPayslip heading (college, campus, phone)\nPayslip signatory name\nPayslip signatory designation\n\nAdhoc allowances are fixed BPS amounts; the payslip wording does not calculate a percentage.\n\nSave settings\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "bps": {
+    "points": {
+      "1": {
+        "x": 1239.5390625,
+        "y": 431.625,
+        "w": 122.921875,
+        "h": 43
+      },
+      "2": {
+        "x": 1173.2109375,
+        "y": 548.53125,
+        "w": 74.109375,
+        "h": 24.5
+      },
+      "3": {
+        "x": 794,
+        "y": 501.53125,
+        "w": 1062,
+        "h": 43.5
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nSettings\nOffline ready\nPD\nPAYROLL WORKSPACE\nMake it yours.\n\nCollege details, pay scales and workspace preferences.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGeneral\nBPS scales\nEmail\nBackup & restore\nFixed allowances by grade\n\nRunning basic and special allowance are entered per employee.\n\nAdd grade\nBPS\tHOUSE RENT\tCONVEYANCE\tMEDICAL\tADHOC\tCPF\t\n16\t4,000\t3,000\t800\t2,500\t2,500\tEdit grade\n\n17\t5,000\t4,000\t1,000\t3,000\t3,000\tEdit grade\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "bps-editor": {
+    "points": {
+      "1": {
+        "x": 157,
+        "y": 198,
+        "w": 258,
+        "h": 65
+      },
+      "2": {
+        "x": 433,
+        "y": 198,
+        "w": 258,
+        "h": 65
+      },
+      "3": {
+        "x": 157,
+        "y": 364,
+        "w": 258,
+        "h": 65
+      },
+      "4": {
+        "x": 433,
+        "y": 364,
+        "w": 258,
+        "h": 65
+      },
+      "5": {
+        "x": 84.8203125,
+        "y": 1001.5,
+        "w": 113.640625,
+        "h": 43
+      },
+      "6": {
+        "x": 490.8359375,
+        "y": 1001.5,
+        "w": 142.328125,
+        "h": 43
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nSettings\nOffline ready\nPD\nPAYROLL WORKSPACE\nMake it yours.\n\nCollege details, pay scales and workspace preferences.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGeneral\nBPS scales\nEmail\nBackup & restore\nFixed allowances by grade\n\nRunning basic and special allowance are entered per employee.\n\nAdd grade\nBPS\tHOUSE RENT\tCONVEYANCE\tMEDICAL\tADHOC\tCPF\t\n16\t4,000\t3,000\t800\t2,500\t2,500\tEdit grade\n\n17\t5,000\t4,000\t1,000\t3,000\t3,000\tEdit grade\nSample College - Training\nStored locally \u00b7 Built for clarity\nPAY GRADE\nBPS allowances\nGrade & monthly amounts\nBPS grade\nHouse rent\nConveyance\nMedical\nAdhoc allowance\nCPF deduction\nDelete grade\nClose\nSave changes",
+    "crop": [
+      770,
+      0,
+      590,
+      1040
+    ]
+  },
+  "email-settings": {
+    "points": {
+      "1": {
+        "x": 526,
+        "y": 538.28125,
+        "w": 474,
+        "h": 65
+      },
+      "2": {
+        "x": 1018,
+        "y": 538.28125,
+        "w": 474,
+        "h": 65
+      },
+      "3": {
+        "x": 526,
+        "y": 621.28125,
+        "w": 474,
+        "h": 65
+      },
+      "4": {
+        "x": 1018,
+        "y": 621.28125,
+        "w": 474,
+        "h": 65
+      },
+      "5": {
+        "x": 526,
+        "y": 704.28125,
+        "w": 474,
+        "h": 65
+      },
+      "6": {
+        "x": 1184.9453125,
+        "y": 805.28125,
+        "w": 140.109375,
+        "h": 43
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nSettings\nOffline ready\nPD\nPAYROLL WORKSPACE\nMake it yours.\n\nCollege details, pay scales and workspace preferences.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGeneral\nBPS scales\nEmail\nBackup & restore\nPayslip email settings\n\nUse your provider\u2019s SMTP credentials. Leave the password blank to keep the saved password.\n\nEmail SMTP server (e.g. smtp.gmail.com)\nEmail SMTP port (usually 587)\nEmail username / login\nEmail password / app password\nFrom email address (leave blank to use username)\n\nEmail is optional. All other payroll functions work without internet.\n\nSave settings\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "backup": {
+    "points": {
+      "1": {
+        "x": 366.9453125,
+        "y": 594.578125,
+        "w": 147.890625,
+        "h": 43
+      },
+      "2": {
+        "x": 914.3125,
+        "y": 614.375,
+        "w": 154.625,
+        "h": 43
+      },
+      "3": {
+        "x": 522,
+        "y": 676.578125,
+        "w": 458,
+        "h": 65
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nDark appearance\nLocal workspace\nWorkspace\nSettings\nOffline ready\nPD\nPAYROLL WORKSPACE\nMake it yours.\n\nCollege details, pay scales and workspace preferences.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGeneral\nBPS scales\nEmail\nBackup & restore\nA safe copy, whenever you need it.\n\nSave a database backup to another drive. It contains employee records, salary inputs, locked figures and settings, including saved email credentials. Keep it private.\n\nCreate backup\nYOUR LOCAL DATA FOLDER\nD:\\payroll\\tmp\\pdfs\\guide\\training-data\nMove or restore your records.\n\nChoose a Payroll Desk database backup. Your current database is backed up automatically before replacement. Saved report files and logo images are separate from the database.\n\nRestore backup\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  },
+  "dark": {
+    "points": {
+      "1": {
+        "x": 114,
+        "y": 955,
+        "w": 194,
+        "h": 42
+      }
+    },
+    "width": 1360,
+    "height": 1040,
+    "text": "Payroll\nDESK \u00b7 LOCAL WORKSPACE\nWORKSPACE\nDashboard\nEmployees\nPayroll\nReports\nSettings\nYour data stays here.\n\nPayroll and reports work offline, on this computer.\n\nLight appearance\nLocal workspace\nWorkspace\nDashboard\nOffline ready\nPD\nYOUR COLLEGE, AT A GLANCE\nA clearer view of your payroll.\n\nEverything you need for a confident payroll day.\n\nPAYROLL PERIOD\nSaved to D:\\payroll\\tmp\\pdfs\\guide\\Sample_Payslips.pdf\nOpen saved file\nGross payroll\nRs418,000\n\nBefore deductions\n\nTotal deductions\nRs28,500\n\nCPF, loans & other adjustments\n\nNet payable\nRs389,500\n\n8 employees \u00b7 September 2026\n\nREADY FOR YOUR RECORDS\nYour payroll is finalized.\n\nDownload payslips and statements from the saved monthly figures.\n\nOpen payroll\nMonth at a glance\nLocked\nEmployees in this payroll\n8\nActive master records\n8\nBank details / net pay to review\n0\nSaved payroll periods\n2\nChanges are saved on this computer. Back up regularly.\nQuick actions\nLess clicking. More clarity.\nDownload payslips\nAll employees \u00b7 PDF document\nImport salary workbook\nBring in your existing college Excel sheet\nBack up your records\nKeep a safe copy on another drive\nRECENT PERIODS\nSeptember 2026\nAugust 2026\nSample College - Training\nStored locally \u00b7 Built for clarity",
+    "crop": [
+      0,
+      0,
+      1360,
+      1040
+    ]
+  }
+}

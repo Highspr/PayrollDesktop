@@ -1,0 +1,17 @@
+.venv/
+.desktop-venv/
+.tools/
+__pycache__/
+.pytest_cache/
+*.pyc
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/*.tsbuildinfo
+build/
+dist/
+artifacts/
+*.db
+*.db-*
+*.xlsx
+*.log

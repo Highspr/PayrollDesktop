@@ -1,0 +1,5 @@
+-r requirements.txt
+pyinstaller==6.22.3
+httpx==0.28.1
+pytest==9.1.1
+pymupdf==1.28.2
